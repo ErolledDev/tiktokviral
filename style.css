@@ -127,7 +127,7 @@ body {
   line-height: 20px;
   text-align: center;
   border-radius: 100%;
-  background: linear-gradient(to bottom right, #C90A6D, #FF48A0);
+  background: linear-gradient(to bottom right, #5eff2d, #6cf85f);
 }
 .wrapper .profile .thumbnail {
   width: 124px;
@@ -261,4 +261,5 @@ h6{
 }
 75% {
   text-shadow: -1.5px 1.5px 0 #0ff, -1.5px 1.5px 0 #f00;
+}
 }
